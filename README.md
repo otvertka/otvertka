@@ -10,11 +10,6 @@
 - Play videogames
 - Sport
 
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
-
 ## 📚 Learning
 - React.js with my wife 👩‍❤️‍👨
 - TypeScript
