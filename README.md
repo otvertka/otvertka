@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yevhen</h1>
+<h3 align="center">A Frontend Developer from Ukraine</h3>
 
-<!--
-**otvertka/otvertka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Frontend web development (JavaScript, React.js)
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Travel
+- Read some books
+- Play videogames
+- Sport
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current projects
+- viajin [WIP] - Side project
+- budget [WIP] - Side project
+- todo [WIP] - Side project
+
+## 📚 Learning
+- React.js with my wife 👩‍❤️‍👨
+- TypeScript
+
