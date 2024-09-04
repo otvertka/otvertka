@@ -11,6 +11,8 @@
 - Sport
 
 ## 📚 Learning
-- React.js with my wife 👩‍❤️‍👨
+- React.js
 - TypeScript
+- Next.js
+  
 
