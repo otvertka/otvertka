@@ -13,6 +13,7 @@
 ## 📚 Learning
 - React.js
 - TypeScript
-- Next.js
+- JavaScript
+- Node.js
   
 
